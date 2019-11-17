@@ -1,2 +1,2 @@
-# kunaal-ahuja.github.io
+# kunaalahuja.github.io
 My personal git website
