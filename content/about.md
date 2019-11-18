@@ -22,7 +22,7 @@ ingestion layer, transformation layer and the serving layer. I've experience wit
 I have an undergraduate degree in Bachelor of Engineering (B.E.) focused in Information Technology from Netaji Subhas Institute of Technology, where I graduated with distinction and 2nd rank in the department in 2014.
 
 ### Hobbies 
-Apart from data and it's manipulation, I am really passionate about sports, Cricket being my favorite. I follow other sports like badminton, tennis, football, Formula1, squash. At the intersection of my interests in data and sports, I've played fantasy leagues of almost all the sports mentioned earlier. 
+Apart from data and its manipulation, I am really passionate about sports, Cricket being my favorite. I follow other sports like badminton, tennis, football, Formula1, squash. At the intersection of my interests in data and sports, I've played fantasy leagues of almost all the sports mentioned earlier. 
 
 I've recently started enjoying cooking (thanks to my flatmates here in Atlanta). 
 
