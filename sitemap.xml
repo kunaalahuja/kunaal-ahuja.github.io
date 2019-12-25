@@ -22,19 +22,11 @@
   </url>
   
   <url>
-    <loc>https://kunaalahuja.github.io/service/service3/</loc>
-  </url>
-  
-  <url>
     <loc>https://kunaalahuja.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>https://kunaalahuja.github.io/service/service1/</loc>
-  </url>
-  
-  <url>
-    <loc>https://kunaalahuja.github.io/service/service4/</loc>
+    <loc>https://kunaalahuja.github.io/service/mortatility/</loc>
   </url>
   
   <url>
@@ -42,11 +34,15 @@
   </url>
   
   <url>
+    <loc>https://kunaalahuja.github.io/service/snotra/</loc>
+  </url>
+  
+  <url>
     <loc>https://kunaalahuja.github.io/tags/</loc>
   </url>
   
   <url>
-    <loc>https://kunaalahuja.github.io/service/service2/</loc>
+    <loc>https://kunaalahuja.github.io/service/tsp/</loc>
   </url>
   
 </urlset>
