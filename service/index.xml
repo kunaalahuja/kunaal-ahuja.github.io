@@ -12,19 +12,19 @@
     
     <item>
       <title>Moratility Rate in USA</title>
-      <link>https://kunaalahuja.github.io/service/mortatility/</link>
+      <link>https://kunaalahuja.github.io/service/2_mortatility/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kunaalahuja.github.io/service/mortatility/</guid>
+      <guid>https://kunaalahuja.github.io/service/2_mortatility/</guid>
       <description>&lt;p&gt;Built a mixed effect regression model to predict the expected age at the time of death of various races in the United States.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>SNOTRA</title>
-      <link>https://kunaalahuja.github.io/service/snotra/</link>
+      <link>https://kunaalahuja.github.io/service/1_snotra/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kunaalahuja.github.io/service/snotra/</guid>
+      <guid>https://kunaalahuja.github.io/service/1_snotra/</guid>
       <description>&lt;p style=&#34;text-align: center;&#34;&gt; Scalable Neighbor based Online Textbook Recommendation Application &lt;/p&gt;
 
 &lt;p&gt;Built a hybrid book recommendation engine using content based filtering and collaborative filtering.&lt;/p&gt;</description>
@@ -32,10 +32,10 @@
     
     <item>
       <title>Travelling Salesman</title>
-      <link>https://kunaalahuja.github.io/service/tsp/</link>
+      <link>https://kunaalahuja.github.io/service/3_tsp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kunaalahuja.github.io/service/tsp/</guid>
+      <guid>https://kunaalahuja.github.io/service/3_tsp/</guid>
       <description>&lt;p&gt;Solved the travelling salesman problem with 46 cities using the optimization solver.&lt;/p&gt;</description>
     </item>
     
