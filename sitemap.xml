@@ -7,23 +7,34 @@
   </url>
   
   <url>
-    <loc>https://kunaalahuja.github.io/categories/</loc>
-  </url>
-  
-  <url>
     <loc>https://kunaalahuja.github.io/</loc>
-  </url>
-  
-  <url>
-    <loc>https://kunaalahuja.github.io/post/blog/</loc>
-  </url>
-  
-  <url>
-    <loc>https://kunaalahuja.github.io/service/2_mortatility/</loc>
+    <lastmod>2013-06-17T12:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://kunaalahuja.github.io/post/</loc>
+    <lastmod>2013-06-17T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kunaalahuja.github.io/post/vivamus-lacus-mauris/</loc>
+    <lastmod>2013-06-17T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kunaalahuja.github.io/service/service3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kunaalahuja.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kunaalahuja.github.io/service/service1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kunaalahuja.github.io/service/service4/</loc>
   </url>
   
   <url>
@@ -31,15 +42,11 @@
   </url>
   
   <url>
-    <loc>https://kunaalahuja.github.io/service/1_snotra/</loc>
-  </url>
-  
-  <url>
     <loc>https://kunaalahuja.github.io/tags/</loc>
   </url>
   
   <url>
-    <loc>https://kunaalahuja.github.io/service/3_tsp/</loc>
+    <loc>https://kunaalahuja.github.io/service/service2/</loc>
   </url>
   
 </urlset>
