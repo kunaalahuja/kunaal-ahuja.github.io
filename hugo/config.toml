@@ -1,4 +1,4 @@
-baseURL = "https://miguelsimoni.github.io/hugo-initio-site/"
+baseURL = "https://kunaalahuja.github.io/"
 languageCode = "en-us"
 title = "Kunaal Ahuja"
 theme = "hugo-initio"
@@ -9,22 +9,22 @@ publishDir = "docs"
     description = "Geek | Data Enthusiast | Traveller | Sports Lover"
     email = "kunaal92@gmail.com"
     phone = "+1 678 848 8960"
-    address = "1264 Barnes St NW, Atlanta, Georgia"
-    year = 2019
+    address = "Atlanta, Georgia"
+    year = 2020
     avatar = "images/guy.jpg"
-    background = "images/mac.jpg"
+    background = ""
     favicon = "images/gt_favicon.png"
     DateForm = "January 2, 2006"
 
     showSubheader = true
     showServices = true
-    showRecentWorks = true
-    showDownload = true
-    showClients = true
+    showRecentWorks = false
+    showDownload = false
+    showClients = false
 
     footerEnableContact = true
     footerEnableFollowme = true
-    footerEnableTextWidget = true
+    footerEnableTextWidget = false
     footerEnableFormWidget = false
 
 [[menu.main]]
@@ -49,42 +49,42 @@ publishDir = "docs"
 [[params.social]]
     title = "linkedin"
     url = "https://www.linkedin.com/in/kunaal-ahuja"
-    icon = "fa-linkedin-square"
+    icon = "fab fa-linkedin"
     footer = true
-    sharethis = true
+    sharethis = false
     network = "linkedin"
 [[params.social]]
     title = "github"
     url = "https://github.com/kunaalahuja"
-    icon = "fa-github"
+    icon = "fab fa-github"
     footer = true
-    sharethis = true
+    sharethis = false
     network = ""
 [[params.social]]
-	title = "facebook"
-	url = "https://www.facebook.com/kunaal92"
-    icon = "fa-facebook-square"
+    title = "facebook"
+    url = "https://www.facebook.com/kunaal92"
+    icon = "fab fa-facebook-square"
     footer = true
-    sharethis = true
+    sharethis = false
     network = "facebook"
 [[params.social]]
-	title = "instagram"
-	url = "https://www.instagram.com/kunaalahuja"
-    icon = "fa-instagram"
+    title = "instagram"
+    url = "https://www.instagram.com/kunaalahuja"
+    icon = "fab fa-instagram"
     footer = true
-    sharethis = true
+    sharethis = false
     network = ""
 [[params.social]]
     title = "twitter"
     url = "https://twitter.com/kunaalahuja"
-    icon = "fa-twitter-square"
+    icon = "fab fa-twitter-square"
     footer = true
-    sharethis = true
+    sharethis = false
     network = "twitter"
 [[params.social]]
-	title = "email"
-	url = "mailto:kunaal92@gmail.com"
-    icon = "fa-envelope"
+    title = "email"
+    url = "mailto:kunaal92@gmail.com"
+    icon = "fab fa-envelope-square"
     footer = false
-    sharethis = true
+    sharethis = false
     network = "email"

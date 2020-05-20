@@ -4,15 +4,29 @@ title = "About"
 type = "about"
 weight = 10
 +++
+### Graduate Life
+I am a graduate student pursuing masters in Analytics (Computational Data Analytics) at Georgia Institute of Technology with expected graduation date of December 2020. The major courses which I've taken include Machine Learning, Regression Analysis, Deterministic Optimization, Data and Visual Analytics, and Operation Research in supply chain. 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam beatae soluta accusantium iusto nihil nesciunt unde veniam magnam repudiandae sapiente.
+I'm also a teaching assistant for Georgia Tech's graduate-level CSE 6040 Computing for Data Analysis course, where I designed and conceptualized exam questions, led office hours, and assisted students through online forums.
 
-![about](../images/mac.jpg)
 
-### Necessitatibus
+### Work Experience
+Prior to my masters, I worked for five years as a quantitative strategist in the Fixed Income team within the Investment Management division at Goldman Sachs, working on portfolio analytics and modeling for the asset management team. 
 
-Velit, odit, eius, libero unde impedit quaerat dolorem assumenda alias consequuntur optio quae maiores ratione tempore sit aliquid architecto eligendi pariatur ab soluta doloremque dicta aspernatur labore quibusdam dolore corrupti quod inventore. Maiores, repellat, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam!
+I worked on global projects in building systematic strategies, statistical time-series models, business cycle forecasting, quantitative data mining, and risk models. 
 
-### Fugit, laboriosam
+During my initial years at the firm, I also worked on designing and developing the data platform and big data solutions for the division involving the 
+ingestion layer, transformation layer and the serving layer. I've experience with building and working on scalable and distributed solutions for the data stack.
 
-Eum, quasi, est, vitae, ipsam nobis consectetur ea aspernatur ad eos voluptatibus fugiat nisi perferendis impedit. Quam, nulla, excepturi, voluptate minus illo tenetur sint ab in culpa cumque impedit quibusdam. Saepe, molestias quia voluptatem natus velit fugiat omnis rem eos sapiente quasi quaerat aspernatur quisquam deleniti accusantium laboriosam odio id?
+### Undergrad
+I have an undergraduate degree in Bachelor of Engineering (B.E.) focused in Information Technology from Netaji Subhas Institute of Technology, where I graduated with distinction and 2nd rank in the department in 2014.
+
+### Hobbies 
+Apart from data and its manipulation, I am really passionate about sports, Cricket being my favorite. I follow other sports like badminton, tennis, football, Formula1, squash. At the intersection of my interests in data and sports, I've played fantasy leagues of almost all the sports mentioned earlier. 
+
+I've recently started enjoying cooking (thanks to my flatmates here in Atlanta). 
+
+I love travelling. I've covered a large chunk of South India during my working years when I was based in Bengaluru, India. Most recently, I visited Turkey for a 10 day solo trip where the hot air balloon ride was the talking point about the trip. (You can check out the photos on my Instagram account). I've been to United States, Sri Lanka, Singapore, Malaysia, Indonesia, Thailand, United Arab Emirates in the past few years.
+
+
+Please go through my LinkedIn profile for more details.
