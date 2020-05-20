@@ -1,14 +1,70 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Kunaal Ahuja</title>
-    <link>https://kunaalahuja.github.io/categories/</link>
-    <description>Recent content in Categories on Kunaal Ahuja</description>
+    <title>Kunaal Ahuja</title>
+    <link>https://kunaalahuja.github.io/</link>
+    <description>Recent content on Kunaal Ahuja</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://kunaalahuja.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kunaalahuja.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://kunaalahuja.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kunaalahuja.github.io/about/</guid>
+      <description>Graduate Life I am a graduate student pursuing masters in Analytics (Computational Data Analytics) at Georgia Institute of Technology with expected graduation date of December 2020. The major courses which I&amp;rsquo;ve taken include Machine Learning, Regression Analysis, Deterministic Optimization, Data and Visual Analytics, and Operation Research in supply chain.
+I&amp;rsquo;m also a teaching assistant for Georgia Tech&amp;rsquo;s graduate-level CSE 6040 Computing for Data Analysis course, where I designed and conceptualized exam questions, led office hours, and assisted students through online forums.</description>
+    </item>
+    
+    <item>
+      <title>  Fake Yelp Reviews and Question Answering</title>
+      <link>https://kunaalahuja.github.io/service/yelp-reviews/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kunaalahuja.github.io/service/yelp-reviews/</guid>
+      <description>&lt;p&gt;Built an ensemble model to detect fake reviews on Yelp with 88 accuracy and developed a question answering framework for user queries using SQuaD.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title> Duplicate Quora Questions (NLP)</title>
+      <link>https://kunaalahuja.github.io/service/quora_questions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kunaalahuja.github.io/service/quora_questions/</guid>
+      <description>&lt;p&gt;Built a Natural Language Processing model to identify duplicate questions using an ensemble model of BERT, Attention based LSTMs, Siamese LSTMs. Achieved accuracy of 90% in detecting similar questions and marking them as duplicate.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title> Ramayana Generator</title>
+      <link>https://kunaalahuja.github.io/service/ramayana-generator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kunaalahuja.github.io/service/ramayana-generator/</guid>
+      <description>&lt;p&gt;Built a natural language model to auto generate devanagari texts like Ramayan, Mahabharata and work from other Hindi poets like Kabira, Rahima, etc based on the existing literature&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title> SNOTRA</title>
+      <link>https://kunaalahuja.github.io/service/snotra/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kunaalahuja.github.io/service/snotra/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Built a hybrid book recommendation engine using content based filtering and collaborative filtering.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Kunaal&#39;s Blog</title>
+      <link>https://kunaalahuja.github.io/post/blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kunaalahuja.github.io/post/blog/</guid>
+      <description>Coming Soon!</description>
+    </item>
     
   </channel>
 </rss>
