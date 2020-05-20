@@ -1,5 +1,5 @@
 +++
-title = "SNOTRA"
+title = " SNOTRA"
 +++
 
 <p style="text-align: center;"> Scalable Neighbor based Online Textbook Recommendation Application </p>
