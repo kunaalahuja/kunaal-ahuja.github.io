@@ -7,22 +7,6 @@
   </url>
   
   <url>
-    <loc>https://kunaalahuja.github.io/service/yelp-reviews/</loc>
-  </url>
-  
-  <url>
-    <loc>https://kunaalahuja.github.io/service/quora_questions/</loc>
-  </url>
-  
-  <url>
-    <loc>https://kunaalahuja.github.io/service/ramayana-generator/</loc>
-  </url>
-  
-  <url>
-    <loc>https://kunaalahuja.github.io/service/snotra/</loc>
-  </url>
-  
-  <url>
     <loc>https://kunaalahuja.github.io/categories/</loc>
   </url>
   
@@ -35,6 +19,10 @@
   </url>
   
   <url>
+    <loc>https://kunaalahuja.github.io/service/2_mortatility/</loc>
+  </url>
+  
+  <url>
     <loc>https://kunaalahuja.github.io/post/</loc>
   </url>
   
@@ -43,7 +31,15 @@
   </url>
   
   <url>
+    <loc>https://kunaalahuja.github.io/service/1_snotra/</loc>
+  </url>
+  
+  <url>
     <loc>https://kunaalahuja.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kunaalahuja.github.io/service/3_tsp/</loc>
   </url>
   
 </urlset>
