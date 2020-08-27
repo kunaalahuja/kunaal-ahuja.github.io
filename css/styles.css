@@ -30,7 +30,7 @@ body {
 }
 .navbar.stick {
   position: fixed;
-  top: 0;
+  top: 100;
   left: 0;
   background-color: rgba(255, 255, 255, .85);
 }
@@ -45,6 +45,12 @@ body {
   font-weight: 300;
   text-transform: uppercase;
 }
+
+.navbar-collapse {
+    width: auto;
+    border-top: 0;
+    box-shadow: none;
+}
 .navbar-collapse .navbar-nav {
   float: none;
   margin: 0 auto;
@@ -55,7 +61,7 @@ body {
   display: inline-block;
 }
 .navbar-collapse .navbar-nav > li > a {
-  padding: 20px 30px;
+  padding: 50px 50px;
 }
 .dropdown ul.dropdown-menu {
   top: 85%;
@@ -65,7 +71,7 @@ body {
   padding: 5px 30px;
 }
 .navbar-default {
-  background-color: #ffffff;
+  background-color: #fff000;
   border-color: #cccccc;
 }
 .navbar-default .navbar-nav > li > a {
